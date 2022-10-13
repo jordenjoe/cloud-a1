@@ -2,7 +2,7 @@
 
 ## About ##
 
-Frontend starter repository for HW 1 of the Cloud Computing & Big Data
+Starter files from frontend starter repository for HW 1 of the Cloud Computing & Big Data
 class at Columbia University and New York University.
 
 ## Usage ##
